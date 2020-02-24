@@ -5,7 +5,7 @@ Window Counter is a web application to automate the stocktaking of building wind
 
 ![Window Counter App](app_view/integration_image.JPG)
 
-Faster R-CNN model is trained and tested on Intel CORE i7-8th generation processor (16gb RAM).  
+Faster R-CNN model is trained and tested on Intel CORE i7-8th generation processor (16GB RAM).  
 ### Installation
 #### Prerequisites
 ##### Frontend
